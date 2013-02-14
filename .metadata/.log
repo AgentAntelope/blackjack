@@ -1,0 +1,13 @@
+!SESSION 2013-02-13 20:55:45.759 -----------------------------------------------
+eclipse.buildId=v21.0.1-543035
+java.version=1.7.0_13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2013-02-13 20:57:01.693
+!MESSAGE An Android SDK is already being loaded. Please try again later.
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2013-02-13 21:00:18.944
+!MESSAGE Failed to load properties file for project 'BlackJack'
